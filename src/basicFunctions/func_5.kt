@@ -1,3 +1,5 @@
+package basicFunctions
+
 fun reverse(num: Int):Int {
     var number = num
     var reversed = 0

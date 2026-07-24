@@ -1,3 +1,5 @@
+package basicFunctions
+
 fun main() {
     birthdayGreeting("ayush",21)
 }
